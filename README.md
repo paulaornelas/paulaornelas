@@ -2,8 +2,8 @@
   <h2>Olá! Eu sou a Paula Ornelas! Desenvolvedora Front-end Web & Mobile 👾✨</h2>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulaornelas&show_icons=true&theme=radical&locale=pt-br&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulaornelas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulaornelas&show_icons=true&theme=radical&locale=pt-br&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulaornelas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" alt="Paula-BobEsponja" width="180px" src="https://i.pinimg.com/originals/32/9d/75/329d7522bb1bde3530b9641aef68abb9.gif">
 
 <div align="center">
@@ -34,7 +34,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulaornelas/paulaornelas/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulaornelas/paulaornelas/output/github-contribution-grid-snake.svg">
 </picture>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lzap2ejzvehjcn5iym06ypa2l&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=dc1e8d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=lzap2ejzvehjcn5iym06ypa2l&redirect=true)
-
 
