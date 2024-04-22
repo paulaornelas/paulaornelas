@@ -1,9 +1,18 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=60&pause=1000&color=FF087F&random=false&width=640&height=70&lines=Oii!+Eu+sou+Paula+Ornelas!;Desenvolvedora+Web+%26+Mobile.)](https://git.io/typing-svg) 
-<img align="right" alt="Paula-BobEsponja" width="180px" src="https://i.pinimg.com/originals/32/9d/75/329d7522bb1bde3530b9641aef68abb9.gif">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulaornelas&show_icons=true&theme=radical&locale=pt-br&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulaornelas&hide_progress=true&theme=radical)
+</div>
 
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulaornelas&show_icons=true&theme=radical&locale=pt-br&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) <img align="" alt="Paula-BobEsponja" width="180px" src="https://i.pinimg.com/originals/32/9d/75/329d7522bb1bde3530b9641aef68abb9.gif">
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulaornelas&hide_progress=true&theme=radical) -->
+
+</div>
+
+<br>
+<br>
 
 <div align="center">
   <img alt="Paula-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
