@@ -1,5 +1,5 @@
 <div>
-  <h2>Olá! Eu sou a Paula Ornelas! Desenvolvedora Front-end Web & Mobile 👾✨</h2>
+  <img width="" bottom="" src="">
 </div>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulaornelas&show_icons=true&theme=radical&locale=pt-br&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
