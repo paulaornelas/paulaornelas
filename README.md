@@ -1,3 +1,5 @@
+<br>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=60&pause=1000&color=FF087F&random=false&width=640&height=70&lines=Oii!+Eu+sou+Paula+Ornelas!;Desenvolvedora+Web+%26+Mobile.)](https://git.io/typing-svg) 
